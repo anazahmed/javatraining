@@ -1,0 +1,30 @@
+package com.digitek.mathoperations;
+
+public class NewEx {
+    public static void addTwoNumbers() {
+        int a = 10;
+        int b = 20;
+        
+        int result = a+b;
+        System.out.println(result);
+        
+    }
+    
+    public static void addThreeNumbers() {
+        
+        int a = 10;
+        int b = 20;
+        int c = 30;
+        
+        int result = a+b+c;
+        System.out.println(result);
+    }
+    
+    public static void main(String[] args) {
+        NewEx ae = new NewEx();
+        ae.addTwoNumbers();
+        ae.addThreeNumbers();
+        
+    }
+}
+
