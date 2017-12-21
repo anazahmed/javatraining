@@ -1,0 +1,20 @@
+package com.digitek.business;
+
+public class PracticeExamples {
+	
+	public static void main(String[] args) {
+		
+	}
+		
+	
+		public static void exop2() {
+			int a = 20;
+			int b = 40;
+			int c = 10;	
+		boolean result2 = a+c<b;
+		System.out.println(result2);
+		}
+
+	}
+
+
