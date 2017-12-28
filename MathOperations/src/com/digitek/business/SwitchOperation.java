@@ -4,7 +4,7 @@ public class SwitchOperation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int day =1;
+int day =5;
 String daystring;
 switch (day) {
 
